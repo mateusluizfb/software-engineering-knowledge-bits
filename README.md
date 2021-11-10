@@ -25,7 +25,7 @@ on each project and shipped them successfully.
 
 # Domain Drive Design - page 103
 
-Services
+Services:
 
 Sometimes, it just isn't a thing.
 
