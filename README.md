@@ -1,6 +1,12 @@
 # Software Engineering Knowledge-bits
 Just a repo with some texts that I think are important to remember from time to time
 
+## Domain Driven Design - Page 36
+
+Business activities and rules are as central to a domain as are the entities involved; any domain will have various categories of concepts. Knowledge crunching yields models that reflect this kind of insight. In parallel with model changes, developers refactor the implementation to express the model, giving the application use of that knowledge.
+
+It is with this move beyond entities and values that knowledge crunching can get intense, because there may be actual inconsistency among business rules. Domain experts are usually not aware of how complex their mental processes are as, in the course of their work, they navigate all these rules, reconcile contradictions, and fill in gaps with common sense. Software can't do this. It is through knowledge crunching in close collaboration with software experts that the rules are clarified, fleshed out, reconciled, or placed out of scope.
+
 ## Shape up - page 33:
 
 Watch out for grab-bags:
