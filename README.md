@@ -29,7 +29,7 @@ splitting the project into smaller projects, like “Better file previews”
 and “Custom folder colors.” We set appetites and clear expectations
 on each project and shipped them successfully.
 
-# Domain Drive Design - page 103
+# Domain Driven Design - page 103
 
 Services:
 
