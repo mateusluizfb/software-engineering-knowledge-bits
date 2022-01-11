@@ -29,7 +29,7 @@ splitting the project into smaller projects, like “Better file previews”
 and “Custom folder colors.” We set appetites and clear expectations
 on each project and shipped them successfully.
 
-# Domain Driven Design - page 103
+## Domain Driven Design - page 103
 
 Services:
 
@@ -59,7 +59,7 @@ Some concepts from the domain aren't natural to model as objects. Forcing the
 required domain functionality to be the responsibility of an ENTITY or VALUE either
 distorts the definition of a model-based object or adds meaningless artificial objects.
 
-# Domain Driven Design - page 73
+## Domain Driven Design - page 73
 
 In an object-oriented program, UI, database, and other support code often gets written
 directly into the business objects. Additional business logic is embedded in the
