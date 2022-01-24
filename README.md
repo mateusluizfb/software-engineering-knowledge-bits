@@ -1,4 +1,4 @@
-# Software Engineering Knowledge-bits
+# Software Engineering Texts
 Just a repo with some texts that I think are important to remember from time to time
 
 ## Domain Driven Design - Page 36
